@@ -1,0 +1,12 @@
+﻿body {
+    font-family:Arial;
+    font-size:large;
+}
+
+h1 {
+    font-size:150%;
+    background-color:navy;
+    color:white;
+    text-align:center;
+    border-bottom:solid 5px black;
+}
